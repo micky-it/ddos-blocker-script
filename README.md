@@ -1,1 +1,2 @@
-# ddos-blocker-script
+# DDos-blocker-script
+Coming soon
