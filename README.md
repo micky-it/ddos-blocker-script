@@ -40,11 +40,11 @@ To uninstall the program execute `uninstall.sh` in the terminal:
 
 `$ sudo ./uninstall.sh`
 
-**If you want to use this script without installing it you can run the script or binary without running install.sh **:
+**If you want to use this script without installing it you can run the script or binary without running install.sh** :
 
-`sudo ./ddos-blocker.sh`
+`$ sudo ./ddos-blocker.sh`
 or
-`sudo ./ddos-blocker`
+`$ sudo ./ddos-blocker`
 
 
 ## Donations
