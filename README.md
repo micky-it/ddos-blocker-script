@@ -1,11 +1,10 @@
-<<<<<<< HEAD
 # DDos blocker/IP block script
 ![](https://raw.githubusercontent.com/micky-it/ddos-blocker-script/main/images/ddos.jpg)
 
 
 Hi! this script i created is for detecting simple dos attacks (with ping, icmp) and for blocking and unblocking ip with the nullroute command. Follow the instructions below carefully!
 
-***Use this script with extreme caution! ***
+### ***Use this script with extreme caution!***
 
 
 
