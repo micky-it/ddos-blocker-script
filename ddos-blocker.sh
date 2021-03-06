@@ -115,7 +115,7 @@ then
         exit 0
       
       else 
-        echo "$LRED\bAn error as occurred! $Z"
+        echo -e "$LRED\bAn error as occurred! $Z"
         exit 1
       fi
     elif [[ $VAR5 = n ]]
