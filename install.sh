@@ -5,7 +5,7 @@ export LGREEN="\e[1;32m"
 export RED="\e[0;31m"
 export Z="\e[0m"
 
-touch /tmp/ssh-mini-tool-ins.txt
+touch /tmp/ddos-blocker-ins.txt
 
 echo -n "Are you sure you want to install this script? [y/n]: "
 read VAR
