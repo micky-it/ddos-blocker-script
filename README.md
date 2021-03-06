@@ -44,7 +44,3 @@ To uninstall the program execute `uninstall.sh` in the terminal:
 I am 13 years old and I really like computer science and programming. If you think this script was useful for you, you can support me by donating bitcoins to the following address:
 
 > `bc1qaqh4yfphxq29glg73yn08cxulvrt358260nnk6`
-=======
-# DDos-blocker-script
-Coming soon
->>>>>>> 3bc5ff664ee4713624c2344ec28cac98b7a2bbf1
