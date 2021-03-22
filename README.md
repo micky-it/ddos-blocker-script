@@ -50,4 +50,4 @@ or
 ## Donations
 I am 13 years old and I really like computer science and programming. If you think this script was useful for you, you can support me by donating bitcoins to the following address:
 
-> `bc1qaqh4yfphxq29glg73yn08cxulvrt358260nnk6`
+> `bc1q0d6hnwnx4rmfwdjy3mcne9vj8rkn7wxuulu7dd`
